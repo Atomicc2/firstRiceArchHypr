@@ -11,7 +11,7 @@ Clean, minimal, and built for performance.
 - **Bar:** Waybar  
 - **Notifications:** SwayNC  
 - **Launcher:** Rofi  
-- **Terminal:** Kitty / Foot  
+- **Terminal:** Ghostty  
 - **Lockscreen:** Hyprlock  
 - **Wallpaper Manager:** swww  
 - **Clipboard:** Cliphist + wl-paste  
